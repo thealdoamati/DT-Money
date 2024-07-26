@@ -1,20 +1,36 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-07-24T13:38:56.717Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2024-05-24T13:10:56.717Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-07-24T13:38:56.717Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-05-24T13:10:56.717Z"
+    },
+    {
+      "description": "Pastel",
+      "price": 500,
+      "category": "Comida",
+      "type": "income",
+      "createdAt": "2024-07-26T15:18:10.034Z",
+      "id": 3
+    },
+    {
+      "description": "Teste",
+      "price": 1,
+      "category": "Teste",
+      "type": "outcome",
+      "createdAt": "2024-07-26T15:29:51.842Z",
+      "id": 4
+    }
+  ]
 }
